@@ -1,11 +1,11 @@
 # Site settings
 author: Illiana Gallardo
-title: 
+title: Software Engineering 
 header-img: img/home-bg.png
 email: igallardo0716@gmail.com
 copyright_name: Illiana Gallardo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Moving into Something New
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  igallardo89
